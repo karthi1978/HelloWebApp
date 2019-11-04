@@ -6,5 +6,6 @@
     </head>
     <body>
         <h3><%=(String) request.getAttribute("hello_string")%></h3>
+        <h4><%=(String) request.getAttribute("hello_string")%></h4>
     </body>
 </html>
